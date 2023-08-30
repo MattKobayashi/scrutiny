@@ -78,7 +78,7 @@ require (
 	gopkg.in/ini.v1 v1.55.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 	gosrc.io/xmpp v0.5.1 // indirect
 	howett.net/plist v0.0.0-20181124034731-591f970eefbb // indirect
 	modernc.org/libc v1.16.8 // indirect
